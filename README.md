@@ -1,3 +1,3 @@
-# Image-Stitching-OpenCV
-Simple image stitching algorithm using SIFT, homography, KNN and Ransac in Python.
+# Video Complement
+A simple examle forked from http://chengao.vision/FGVC/
 
